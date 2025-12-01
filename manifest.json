@@ -1,5 +1,5 @@
 {
-  "manifest_version": "0.3",
+  "manifest_version": "0.2",
   "name": "Windows-MCP",
   "version": "0.5.0",
   "description": "MCP Server that enables Claude to interact with Windows OS",
